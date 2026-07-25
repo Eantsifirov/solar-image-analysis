@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local observational datasets
+*.fits
+*.fit
+*.fts
+
+# Local data directories
+data/raw/
