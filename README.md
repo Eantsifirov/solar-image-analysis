@@ -72,8 +72,3 @@ The current version is provided as a Jupyter Notebook. The preprocessing and sun
 ## License
 
 This project is licensed under the MIT License.
-
-
-## License
-
-This project is licensed under the MIT License.
